@@ -37,7 +37,7 @@ The IETF produces documents in a distributed, organizational fashion.  Working g
 
 If this isn’t appropriate for your situation, or as a last resort, a vulnerability report can be sent to the <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> and the Security Area Directors will make a best effort to triage and action the information.  This email alias does not have a public archive.  If explicitly requested by the vulnerability reporter, information about the reporter can be removed when the Area Directors forward along the vulnerability information to public mailing list(s) (as noted above in the “Transparency in the IETF” and Activity #10 of Figure 1).
 
-![Figure 1](https://github.com/ietf/vul-reporting-guidance/blob/main/vul-reporting-guidance-figure.png?raw=true | width=500)
+![](https://github.com/ietf/vul-reporting-guidance/blob/main/vul-reporting-guidance-figure.png?raw=true)
 Figure 1: Vulnerability Reporting Flow
  
 ### 1. Is the document known?
