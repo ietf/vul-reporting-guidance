@@ -1,7 +1,11 @@
-See: https://mailarchive.ietf.org/arch/msg/ietf/KNbzDAOCrs4ssGZ3q2P4GooTFbg/
------
+See: [Thread](https://mailarchive.ietf.org/arch/msg/ietf/KNbzDAOCrs4ssGZ3q2P4GooTFbg/) on ietf@ietf.org mailing list
+
+***
+
 To: ietf@ietf.org
+
 Date: Fri, 23 October 2020 18:46 UTC
+
 Subject: Call for Community Feedback: Guidance on Reporting Protocol Vulnerabilities
 
 Hi!
