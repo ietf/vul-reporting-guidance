@@ -69,8 +69,8 @@ Judging “minor text edits or clarifications” is subjective.  Generally spea
 ### 7. Contact the document authors
 The contact information for all authors can be found at the end of each document.  Be advised, contact information is not updated after the document is published so it may be out-of-date.
 
-### 8. File an Errata
-An errata for published RFCs can be filed at https://www.rfc-editor.org/errata.php.
+### 8. File Errata
+Errata for published RFCs can be filed at https://www.rfc-editor.org/errata.php.
 
 ### 9. Contact the WG mailing list
 Send your vulnerability report to the appropriate, public WG mailing list.  To determine the mailing list of a working group named YYY identified in Activity #3 or 4.
