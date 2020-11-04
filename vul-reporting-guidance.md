@@ -50,13 +50,13 @@ See [Section 7](https://www.ietf.org/standards/ids/guidelines/#7) of [Guidelines
 ### 3. Is there an active working group on the topic?
 Consult the list of [active working groups](https://datatracker.ietf.org/wg/). 
 
-### 4. Is the working group that published the document still active?
-To determine if a working group that produced a document named XXX is active:
-
-* Goto https://datatracker.ietf.org/doc/XXX/
+### 4. Is this a working group document and is it still active?
+To determine if an document named ABC was produced by a working group and if this working group is active:
+* Goto https://datatracker.ietf.org/doc/ABC/
 * Click the “Status” tab
-* In the “Document” meta-data section, find the “Type” field.  Assuming it is a working group document, this field should have the value of either “Expired Internet-Draft (YYY WG)” or “Active Internet-Draft (YYY WG)”
-* Clicking on the “YYY WG” link will bring up the associated working group page.
+* In the “Document” meta-data section, find the “Type” field.  There will be text for the form "Was draft-XXX (YYY WG)" or "Was draft-XXX (individual in ZZ area)".
+  * Clicking on the “YYY WG” link will bring up the associated working group page and confirm if it is still active
+  * Presence of the text "individual" in this field confirms that this RFC was not produced by a working group, but an [individual submission](https://www.ietf.org/about/groups/iesg/statements/area-director-sponsoring-documents/).
 
 If the originating working group is found not to be active, also review the list of active working groups per Activity #3.  A number of protocol maintenance work groups (e.g., LAMPS to address the maintenance of PKI specifications; TCPM to address TCP maintenance) have been established to update older, widely used protocols.
 
