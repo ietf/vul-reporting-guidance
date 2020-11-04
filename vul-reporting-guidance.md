@@ -67,7 +67,7 @@ The procedure is the same as for Activity #4.
 Judging “minor text edits or clarifications” is subjective.  Generally speaking a “minor” edit meets the [definition of an errata](https://www.ietf.org/about/groups/iesg/statements/processing-rfc-errata/) that is meant ‘to fix "bugs" in the specification and should not be used to change what the community meant when it approved the RFC.’
 
 ### 7. Contact the document authors
-The contact information for all authors can be found at the end of each document.
+The contact information for all authors can be found at the end of each document.  Be advised, contact information is not updated after the document is published so it may be out-of-date.
 
 ### 8. File an Errata
 An errata for published RFCs can be filed at https://www.rfc-editor.org/errata.php.
