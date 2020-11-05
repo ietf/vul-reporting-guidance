@@ -35,7 +35,7 @@ The IETF does not pay “bug bounties” for reported vulnerabilities.
 
 The IETF produces documents in a distributed, organizational fashion.  Working groups are chartered to define these documents.  After the work is completed, they are closed.  Therefore, there is not a single routing mechanism in the IETF to handle reported vulnerabilities.  Depending on the maturity and circumstances of a given document, the reporting paths vary.  No vulnerability is the same, but consult Figure 1 to understand how to report the vulnerability.  Each activity in Figure 1 is documented below.
 
-If this isn’t appropriate for your situation, or as a last resort, a vulnerability report can be sent to the <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> and the Security Area Directors will make a best effort to triage and action the information.  This email alias does not have a public archive.  If explicitly requested by the vulnerability reporter, information about the reporter can be removed when the Area Directors forward along the vulnerability information to public mailing list(s) (as noted above in the “Transparency in the IETF” and Activity #10 of Figure 1).
+If this isn’t appropriate for your situation, or as a last resort, a vulnerability report can be sent to the <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> (link to PGP key below) and the Security Area Directors will make a best effort to triage and action the information.  This email alias does not have a public archive.  If explicitly requested by the vulnerability reporter, information about the reporter can be removed when the Area Directors forward along the vulnerability information to public mailing list(s) (as noted above in the “Transparency in the IETF” and Activity #10 of Figure 1).
 
 ![](https://github.com/ietf/vul-reporting-guidance/blob/main/vul-reporting-guidance-figure.png?raw=true)
 Figure 1: Vulnerability Reporting Flow
@@ -80,8 +80,12 @@ Send your vulnerability report to the appropriate, public WG mailing list.  To 
 
 Note that the mailing list name might not be the same as the working name.
 
-For anything sent to a WG list, also consider sending a CC: to the general reporting alias, <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)>, to provide additional visibility to the Security Area Directors.
+For anything sent to a WG list, also consider sending a CC: to the general reporting alias, <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> (link to PGP key below), to provide additional visibility to the Security Area Directors.
 
 ### 10. Contact the general alias
 
-As a last resort, vulnerability reports can always be sent to the <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> and the [Security Area Directors](https://www.ietf.org/about/groups/iesg/members/) will make a best effort to triage and action the information.
+As a last resort, vulnerability reports can always be sent to the <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> (link to PGP key below) and the [Security Area Directors](https://www.ietf.org/about/groups/iesg/members/) will make a best effort to triage and action the information.
+
+## Secure Communication
+
+PGP encrypted messages using the PGP Key (link to .asc) with a fingerprint of XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX can be sent to <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)>
