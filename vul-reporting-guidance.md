@@ -1,6 +1,12 @@
 # DRAFT Guidance on Reporting Protocol Vulnerabilities to the IETF
 
-The IETF recognizes that security vulnerabilities will be discovered in IETF protocols and welcomes their critical evaluation by researchers.  Such research keeps the Internet safe.  This page is intended to guide researchers in navigating the IETF to disclose and remediate these vulnerabilities.
+The IETF recognizes that security vulnerabilities will be discovered in IETF protocols and welcomes their critical evaluation by researchers.  Such research keeps the Internet safe.  If you believe you’ve discovered a protocol vulnerability, we very much welcome your contribution.
+
+Remediation of vulnerabilities is typically started through disclosure to an open and public IETF working group or mailing list where protocol improvements can be discussed.  If you do not know which IETF working group or mailing list to use, or that does not seem appropriate for your work, we invite you to contact <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> (link to PGP key below) for assistance.
+
+Detailed guidance to navigate the disclosure of and remediate of vulnerabilities in the IETF is documented below.
+
+The IETF does not pay “bug bounties” for reported vulnerabilities.
 
 ## Scope
 The IETF is a standards development organization that publishes RFCs that describe Internet protocols and specifications. Internet-Drafts (I-Ds) are working documents used in the creation of RFCs. RFCs and I-Ds are collectively referred to as documents. While documents include an occasional reference or example source code, the IETF does not build or maintain implementations of protocols.
