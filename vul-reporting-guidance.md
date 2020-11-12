@@ -94,4 +94,4 @@ As a last resort, vulnerability reports can always be sent to the <[protocol-vul
 
 ## Secure Communication
 
-PGP encrypted messages using the PGP Key (link to .asc) with a fingerprint of XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX can be sent to <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)>
+PGP encrypted messages using the [PGP Key](https://github.com/ietf/vul-reporting-guidance/blob/main/ietf-protocol-vulnerability-1772968.asc) with a fingerprint of 5674 EB6C DC18 5E2A 3D7A  56E5 AB78 AE3D 1772 9268 can be sent to <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)>
