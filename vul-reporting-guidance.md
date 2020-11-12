@@ -4,14 +4,14 @@ The IETF recognizes that security vulnerabilities will be discovered in IETF pro
 
 Remediation of vulnerabilities is typically started through disclosure to an open and public IETF working group or mailing list where protocol improvements can be discussed.  If you do not know which IETF working group or mailing list to use, or that does not seem appropriate for your work, we invite you to contact <[protocol-vulnerability@ietf.org](mailto://protocol-vulnerability@ietf.org)> (link to PGP key below) for assistance.
 
-Detailed guidance to navigate the disclosure of and remediate of vulnerabilities in the IETF is documented below.
+A full explanation of the IETF processes related to disclosure and remediation of vulnerabilities is documented below.
 
 The IETF does not pay “bug bounties” for reported vulnerabilities.
 
 ## Scope
-The IETF is a standards development organization that publishes RFCs that describe Internet protocols and specifications. Internet-Drafts (I-Ds) are working documents used in the creation of RFCs. RFCs and I-Ds are collectively referred to as documents. While documents include an occasional reference or example source code, the IETF does not build or maintain implementations of protocols.
+The IETF is a standards development organization that publishes RFCs that describe Internet protocols and specifications. Internet-Drafts (I-Ds) are working documents used in the creation of RFCs. RFCs and I-Ds are collectively referred to as documents.  While documents include an occasional reference or example source code, the IETF does not build or maintain implementations of protocols.
 
-Design vulnerabilities or security issues with operational practices described in IETF documents can be addressed in the IETF.  Implementation or configuration vulnerabilities in products, open source projects, or services that may implement these documents need to be addressed by their corresponding vendor.  The IETF does not have a formal means to reach these parties. 
+Design vulnerabilities or security issues with operational practices described in IETF documents can be addressed in the IETF.  Implementation or configuration vulnerabilities in products, open source projects, or services that may implement these documents need to be addressed by their corresponding vendor or maintainers.  The IETF does not have a formal means to reach these parties. 
 
 Additionally, the IETF does not certify conformance of products to its published documents.
 
@@ -23,7 +23,7 @@ New protocol work and associated maintenance of published protocol specification
 
 The IETF standards process does not support private disclosure and remediation.  If the severity or complexity of the vulnerability necessitates confidentiality, consider engaging a Computer Security Incident Response Team (CSIRT) for [coordinated vulnerability disclosure](https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf).  Additionally, privately contacting document authors or working group chairs can also be used to help assess the issue (See Activity #7 of Figure 1).  All mail sent to IETF Working Group mailing lists is public.
 
-## Expectations from the IETF
+## IETF Reponse to Vulnerability Reports
 
 The IETF values your critical analysis of its work.  What the IETF will do with your vulnerability report, depends on the type of document where the issue is found; the severity of the issue; the complexity of the mitigation;  and the maturity of the document in question.
 
