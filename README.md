@@ -1,5 +1,7 @@
 See: [Thread](https://mailarchive.ietf.org/arch/msg/ietf/KNbzDAOCrs4ssGZ3q2P4GooTFbg/) on ietf@ietf.org mailing list
 
+[Call closed](https://mailarchive.ietf.org/arch/msg/ietf/jCAXRVUSojRIeD1U18FxSMa5vMc/) on November 10, 2020.  Thank you for the community input.
+
 ***
 
 To: ietf@ietf.org
